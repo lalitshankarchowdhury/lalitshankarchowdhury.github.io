@@ -4,19 +4,26 @@ body {
     font-family: 'Source Sans Pro';
 }
 
+div {
+    width: 45em;
+    position: relative;
+    top: 5em;
+    margin: auto;
+}
+
 h1 {
-    font-size: 2em;
-    color: #084887;
+    font-size: 2.25em;
+}
+
+h2 {
+    font-size: 1.5em;
+    color: #4d5061;
 }
 
 p {
     font-size: 1.125em;
-    color: #4d5061;
 }
 
-div {
-    width: 50em;
-    position: relative;
-    top: 5em;
-    margin: auto;
+a {
+    color: #084887;
 }
