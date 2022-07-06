@@ -1,15 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro');
 
 * {
-    font-family: 'Inter';
+    font-family: 'Source Sans Pro';
 }
 
 h1 {
-    font-size: 2.25em;
+    font-size: 32px;
+    color: #084887;
 }
 
 p {
-    font-size: 1.125em;
+    font-size: 18px;
+    color: #4d5061;
 }
 
 div {
