@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
 
 body {
-    font-family: 'Source Sans Pro';
+    font-family: 'Source Sans Pro', sans-serif;
 }
 
 div {
@@ -12,16 +12,16 @@ div {
 }
 
 h1 {
-    font-size: 2.25em;
+    font-size: 2.5em;
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 1.75em;
     color: #4d5061;
 }
 
 p {
-    font-size: 1.125em;
+    font-size: 1.25em;
 }
 
 a {
