@@ -2,22 +2,24 @@
 
 body {
     font-family: 'Source Sans Pro', sans-serif;
-    max-width: 47.5em;
+    max-width: 45em;
     margin: 0 auto;
     padding-top: 5em;
+    padding-left: 1em;
+    padding-right: 1em;
 }
 
 h1 {
-    font-size: 3em;
+    font-size: 2em;
 }
 
 h2 {
-    font-size: 1.75em;
+    font-size: 1.375em;
     color: #4d5061;
 }
 
 p {
-    font-size: 1.25em;
+    font-size: 1.125em;
 }
 
 a {
