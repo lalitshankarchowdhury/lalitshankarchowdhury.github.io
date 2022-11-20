@@ -1,27 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
 
 body {
-    font-family: 'Source Sans Pro', sans-serif;
-    max-width: 45em;
-    margin: 0 auto;
-    padding-top: 3em;
-    padding-left: 1em;
-    padding-right: 1em;
+  font-family: "Source Sans Pro", sans-serif;
+  max-width: 45em;
+  margin: 0 auto;
+  padding-top: 3em;
+  padding-left: 1em;
+  padding-right: 1em;
 }
 
 h1 {
-    font-size: 2em;
+  font-size: 2em;
 }
 
 h2 {
-    font-size: 1.375em;
-    color: #4d5061;
+  font-size: 1.375em;
+  color: #4d5061;
 }
 
 p {
-    font-size: 1.125em;
+  font-size: 1.125em;
 }
 
 a {
-    color: #084887;
+  color: #084887;
 }
