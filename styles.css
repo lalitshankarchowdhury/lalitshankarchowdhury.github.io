@@ -1,7 +1,7 @@
-@import url("https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter&display=swap");
 
 body {
-  font-family: "Source Sans Pro", sans-serif;
+  font-family: "Inter", sans-serif;
   max-width: 45em;
   margin: 0 auto;
   padding-top: 3em;
@@ -15,7 +15,7 @@ h1 {
 
 h2 {
   font-size: 1.375em;
-  color: #4d5061;
+  color: rgb(80, 80, 80);
 }
 
 p {
@@ -23,5 +23,5 @@ p {
 }
 
 a {
-  color: #084887;
+  color: rgb(0, 0, 255);
 }
