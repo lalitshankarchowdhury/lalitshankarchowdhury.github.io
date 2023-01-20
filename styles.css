@@ -15,7 +15,9 @@ h1 {
 
 h2 {
   font-size: 1.375em;
+  font-weight: normal;
   color: rgb(80, 80, 80);
+  line-height: 0em;
 }
 
 p {
@@ -23,5 +25,7 @@ p {
 }
 
 a {
+  font-weight: bold;
   color: rgb(0, 0, 255);
+  text-decoration: none;
 }
